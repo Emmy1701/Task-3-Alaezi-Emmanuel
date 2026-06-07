@@ -15,13 +15,13 @@
 ### Screenshots of Query Results
 
 *Query 1: Top 5 Highest Revenue Orders*
-![Query 1](screenshots/query1_top5_orders.png)
+![Query 1](Screenshots/query1_top5_orders.png)
 
 *Query 2: Revenue by Product* 
-![Query 2](screenshots/query2_revenue_by_product.png)
+![Query 2](Screenshots/query2_revenue_by_product.png)
 
 *Query 3: Repeat Customers*
-![Query 3](screenshots/query3_repeat_customers.png)
+![Query 3](Screenshots/query3_repeat_customers.png)
 
 *Query 4: Monthly Revenue Trend*
-![Query 4](screenshots/query4_monthly_trend.png)
+![Query 4](Screenshots/query4_monthly_trend.png)
