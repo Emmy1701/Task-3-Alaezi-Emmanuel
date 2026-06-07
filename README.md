@@ -11,3 +11,17 @@
  **Peak month:** June 2024 with N68,068.54 revenue from 53 orders
 
  **Tools:** MySQL Workbench
+
+### Screenshots of Query Results
+
+*Query 1: Top 5 Highest Revenue Orders*
+![Query 1](screenshots/query1_top5_orders.png)
+
+*Query 2: Revenue by Product* 
+![Query 2](screenshots/query2_revenue_by_product.png)
+
+*Query 3: Repeat Customers*
+![Query 3](screenshots/query3_repeat_customers.png)
+
+*Query 4: Monthly Revenue Trend*
+![Query 4](screenshots/query4_monthly_trend.png)
